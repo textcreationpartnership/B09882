@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Richardson's case against George Durdant, for lands in Staines and Stanwell, in the county of Middlesex</title>
+            <author>Richardson, William, fl. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09882</idno>
+            <idno type="STC">Wing R1416B</idno>
+            <idno type="STC">ESTC R182715</idno>
+            <idno type="EEBO-CITATION">64551687</idno>
+            <idno type="OCLC">ocm 64551687</idno>
+            <idno type="VID">184767</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184767)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Richardson's case against George Durdant, for lands in Staines and Stanwell, in the county of Middlesex</title>
+                  <author>Richardson, William, fl. 1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richardson, William, fl. 1685 --  Trials, litigation, etc.</term>
+               <term>Durdant, George --  Trials, litigation, etc.</term>
+               <term>Inheritance and succession --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:184767:1"/>
+            <head>William Richardſon's CASE <hi>against</hi> George Durdant, <hi>for Lands in</hi> Staines
+<hi>and</hi> Stanwell, <hi>in</hi> the <hi>County of</hi> Middleſex.</head>
+            <p>
+               <hi>RObert Durdant,</hi> the Father of <hi>George Durdant,</hi> who now brings this Writ, did at firſt ſell the Lands in queſtion to the Defendant <hi>Richardſon,</hi> only during the Life of the ſaid <hi>Robert Dur<g ref="char:EOLhyphen"/>dant;</hi> but the ſaid <hi>Robert Durdant</hi> afterwards being in great want of Moneys; and having then a Wife and ſeveral Children to maintain, did importune the Defendant <hi>William Richardſon</hi> to buy the Inheritance of the ſaid Lands. And Mr.
+<hi>Higdon</hi> who was a Truſtee for the ſaid <hi>Robert Durdant</hi> for theſe and other Lands, and the ſaid <hi>Durdant</hi>'s near Kinſman, likewiſe informed the ſaid
+<hi>Richardſon,</hi> that the ſaid <hi>Robert Durdant</hi> had a good Title to the ſaid Lands, and a lawful Right to ſell the ſame, by vertue of the laſt Will and Teſtament of one
+<hi>Henry Wicks</hi> 
+               <abbr>Eſq</abbr> deceaſed. And that the reaſon why the name of the ſaid Mr. <hi>Higdon</hi> was uſed in Truſt in the ſaid Will was (and ſo in<g ref="char:EOLhyphen"/>tended by the ſaid Mr. <hi>Wicks</hi>) to the intent, that the ſaid Mr. <hi>Higdon</hi> might (as he ſaw cauſe or ſhould think fit) either enable the ſaid <hi>Durdant</hi> to ſell the Inheritance of the ſaid Lands, or obſtruct his ſale thereof, and the ſaid Mr. <hi>Higdon</hi> affirmed to the ſaid <hi>Richardſon,</hi> that there was a neceſſity the ſaid <hi>Robert Durdant</hi> ſhould ſell the ſaid Lands, to ſome Body for the maintenance of Him, his Wife and Children. And that the ſaid <hi>Durdant</hi> had ſeveral other Lands to keep and ſuffer to de<g ref="char:EOLhyphen"/>ſcend to his Son. Thereupon the ſaid <hi>Richardſon</hi> adviſed with ſeveral Counſellors at Law upon the ſaid Will, the words whereof are as followeth, <hi>viz.</hi>
+            </p>
+            <p>Item. <hi>I give and bequeath to my Couſin</hi> John Higdon <hi>and his Heirs, during the Life only of</hi> Robert Durdant <hi>my Kinſman, Eldeſt Son of my Nephew</hi> Andrew Durdant,
+<hi>deceaſed. All th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe my Meſſuages Lands, Tenements, and Hereditaments, in</hi> Staines <hi>and</hi> Stanwell <hi>in the County of</hi> Middleſex; <hi>upon this truſt and confidence that he the ſaid</hi> John Higdon,
+<hi>and his Heirs, ſhall permit, and ſuffer him the ſaid</hi> Ro<g ref="char:EOLhyphen"/>bert Durdant, <hi>from time to time, during the Term of his Life, to have, receive, and take the Rents and Profits thereof. And from and after the Deceaſe of the ſaid</hi> Robert Durdant: <hi>then I do give, and deviſe the ſaid laſt mentioned Lands in</hi> Staines <hi>and</hi> Stanwell, <hi>unto the Heirs Males of the Body of him the ſaid</hi> Robert Durdant <hi>now living, and ſuch other Heirs Males, or Females, as he ſhall hereafter happen to have of his Body; and for want of ſuch Heirs, then to the uſe and behoof of my Couſin</hi> Gideon Durdant, <hi>and the Heirs of his Body; and for want of ſuch Heirs, the ſame to be and remain to the right Heirs of me the ſaid</hi> Henry Wicks.</p>
+            <p>And the ſaid <hi>Richardſon</hi> being adviſed by his Counſel that the ſaid <hi>Robert Durdant,</hi> together with the ſaid Mr. <hi>Higdon,</hi> and the ſaid <hi>Gideon Durdant,</hi> the remainder man, had a lawful power to ſell and convey the Inheritance of the ſaid Lands; he the ſaid <hi>Richardſon</hi> purchaſed the ſame of the ſaid <hi>Robert Durdant</hi> and
+<hi>Gideon Durdant,</hi> and paid for the Eſtate, for Life and the Inheritance in all above 600
+<abbr>
+                  <hi>l.</hi>
+               </abbr> the Lands being ſince Let for not above 34 <hi>
+                  <abbr>l.</abbr> per annum;</hi> but never had any quiet Enjoy<g ref="char:EOLhyphen"/>ment thereof, ſince the death of the ſaid <hi>Robert Durdant;</hi> but ſhortly after his death, which happe<g ref="char:EOLhyphen"/>ned near 18 years, ſince the Friends and Kindred of the now complainant <hi>George Durdant,</hi> in his Minority brought a Suit in Chancery againſt the ſaid <hi>Richardſon</hi> to ſet aſide his Purchaſe; where<g ref="char:EOLhyphen"/>upon after examination of Witneſſes, and a full hearing, his Purchaſe was allowed good, and their Bill diſmiſſed upon the merits of the Cauſe; whereupon they acquieſced and never appeared, or brought any Bill of Review upon the ſaid diſmiſſion, whereby to bring the Merits of the Cauſe again in queſtion; but ſince the ſaid <hi>Georgre Durdan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> coming to Age, hath brought this Suit and put the ſaid
+<hi>Richardſon</hi> to great expences, and levied 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> upon his Goods, and above 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> by mean Profits and cutting down of Timber, having obtained a Judgdment thereupon, by the Judgment of three of the Judges of his Majeſties Court of King Bench. But the ſaid <hi>William Richardſon</hi> thereupon brought a Writ of Error returnable in the Exchequer Chamber, before the Judges of the Common Pleas and Barons of the Exchequer; and by the Judgment of ſeven Judges, then preſent, the ſaid <hi>William Rich<g ref="char:EOLhyphen"/>ardſon</hi>'s Title was declared to be good &amp; the former Judgment reverſed. And the ſaid <hi>William Richard<g ref="char:EOLhyphen"/>ſon</hi> was to be reſtored to what he had loſt by the former Judgments and accordingly was reſtored to the poſſeſſion but never had reſtitution of the ſaid 30
+<abbr>
+                  <hi>l.</hi>
+               </abbr> Coſts and 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> for mean Profits: this Reverſal was the 10th day of <hi>February</hi> in the 32 year year of his late Majeſties Reign, and the Writ of Error now in queſtion is <hi>Teſte</hi> the 4th. day of <hi>November</hi> in the ſaid
+32. year of his ſaid late Majeſties Reign, ſince which time not only the Eejctment Leaſe, in the Record mentioned is expired but before the ſaid <hi>George Durdant</hi> the leſſer therein named, is dead and the leſſee <hi>John James</hi> is reported to be dead, ſo that the ſaid <hi>Richardſon</hi> can have no Reſtitution of the ſaid 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> for Coſts, and 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> for mean Profits; nevertheleſs ſome other Perſons carry on the ſaid Writ of Error.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
